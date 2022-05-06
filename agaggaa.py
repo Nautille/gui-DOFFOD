@@ -1,7 +1,6 @@
 from tkinter import *
 from numpy import place, size
 import tkinter as tk
-from setuptools import Command
 
 
 app = Tk()
